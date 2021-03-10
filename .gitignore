@@ -1,0 +1,18 @@
+**/ipynb*
+**/__pycache__
+**/temp
+
+#virtual environment:
+lib*
+lib*/*
+bin
+bin/*
+include
+include/*
+pyvenv.cfg
+
+#training:
+**/lp_data
+**/test_data
+
+
